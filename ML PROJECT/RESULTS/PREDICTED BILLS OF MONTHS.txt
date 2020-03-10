@@ -1,0 +1,110 @@
+k electric bill of month JANUARY
+[[870.35568421]]
+k electric bill of month JANUARY (poly reg)
+[[895.57537436]]
+Mean Absolute Error: 1205.8025000000002
+Mean Square Error: 1624364.0907949996
+Root Mean Square Error: 1274.5054298805476
+
+
+k electric bill of month FEBRUARY
+[[935.56119549]]
+k electric bill of month FEBRUARY (poly reg)
+[[1024.21870637]]
+Mean Absolute Error: 1195.0925
+Mean Square Error: 1590835.021015
+Root Mean Square Error: 1261.2830852013358
+
+
+k electric bill of month MARCH
+[[889.86891729]]
+k electric bill of month MARCH (poly reg)
+[[1002.98322749]]
+Mean Absolute Error: 1059.3709999999999
+Mean Square Error: 1356490.8559699997
+Root Mean Square Error: 1164.684874105438
+
+
+
+k electric bill of month APRIL
+[[1418.61992481]]
+k electric bill of month APRIL (poly reg)
+[[1250.68232417]]
+Mean Absolute Error: 841.1370000000001
+Mean Square Error: 974473.1239499999
+Root Mean Square Error: 987.1540527952058
+
+
+k electric bill of month MAY
+[[2870.27402256]]
+k electric bill of month MAY (poly reg)
+[[3287.67585468]]
+Mean Absolute Error: 1663.0104999999996
+Mean Square Error: 4531992.521624999
+Root Mean Square Error: 2128.8476980810533
+
+
+k electric bill of month JUNE
+[[2724.09154887]]
+k electric bill of month JUNE (poly reg)
+[[2351.82202244]]
+Mean Absolute Error: 2179.816
+Mean Square Error: 11136048.496539999
+Root Mean Square Error: 3337.071844677606
+
+
+k electric bill of month JULY
+[[3162.70520301]]
+k electric bill of month JULY (poly reg)
+[[2917.90638457]]
+Mean Absolute Error: 2251.9959999999996
+Mean Square Error: 14698960.03667
+Root Mean Square Error: 3833.9222783815007
+
+
+
+k electric bill of month AUGUST
+[[2465.54886466]]
+k electric bill of month AUGUST (poly reg)
+[[2270.66140699]]
+Mean Absolute Error: 1476.9195
+Mean Square Error: 4422889.0865050005
+Root Mean Square Error: 2103.0665910771822
+
+
+
+k electric bill of month SEPTEMBER
+[[1798.28293985]]
+k electric bill of month SEPTEMBER (poly reg)
+[[1670.81309545]]
+Mean Absolute Error: 1321.3539999999998
+Mean Square Error: 3178392.9009800004
+Root Mean Square Error: 1782.8047848769086
+
+
+k electric bill of month OCTOBER
+[[2134.7207594]]
+k electric bill of month OCTOBER (poly reg)
+[[1928.38380933]]
+Mean Absolute Error: 1345.79
+Mean Square Error: 2597251.04638
+Root Mean Square Error: 1611.5989098966281
+
+
+
+k electric bill of month NOVEMBER
+[[1505.79915789]]
+k electric bill of month NOVEMBER (poly reg)
+[[1443.46648669]]
+Mean Absolute Error: 820.445
+Mean Square Error: 895386.72699
+Root Mean Square Error: 946.248765912009
+
+
+k electric bill of month DECEMBER
+[[698.95507519]]
+k electric bill of month DECEMBER (poly reg)
+[[597.42561841]]
+Mean Absolute Error: 1105.3280000000002
+Mean Square Error: 1383045.2615399999
+Root Mean Square Error: 1176.0294475649832
